@@ -1,0 +1,13 @@
+{
+  "name": "backtatto",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Tatto", "Desenvolvimento WEB", "Node.js", "Express", "Dev BackEnd"],
+  "author": "Weslley Da Paz Souza",
+  "license": "MIT",
+  "description": "Sistema de exemplo Para curso de Técnico de Informática do IFSP, aplicativo API.",
+  "type": "module"
+}
