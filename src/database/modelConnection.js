@@ -1,4 +1,4 @@
-import sequelize, { Sequelize } from 'sequelize'
+import { Sequelize } from 'sequelize'
 import databaseConfig from '../config/database.js'
 import usuario from '../models/usuario.js'
 
